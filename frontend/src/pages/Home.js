@@ -4,8 +4,8 @@ import About from '../components/About';
 import Contact from '../components/Contact';
 import Hero from '../components/Hero';
 import Projects from '../components/Projects';
-import Technologies from '../components/Technologies';
-import Testimonials from '../components/Testimonials';
+// import Technologies from '../components/Technologies';
+// import Testimonials from '../components/Testimonials';
 
 const Home = () => {
   return (
@@ -13,8 +13,8 @@ const Home = () => {
       <Hero />
       <About />
       <Projects />
-      <Technologies />
-      <Testimonials />
+      {/* <Technologies />
+      <Testimonials /> */}
       <Contact />
     </div>
   );

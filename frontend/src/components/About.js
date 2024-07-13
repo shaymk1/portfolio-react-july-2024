@@ -59,7 +59,7 @@ const About = () => {
               marginBottom={6}
               data-aos='fade-up'
             >
-              I am a freelance web developer who builds elegant, fast, and
+              I am a Python Django web developer who builds elegant, fast, and
               scalable web applications
             </Typography>
           </Box>
